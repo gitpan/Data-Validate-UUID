@@ -27,4 +27,4 @@ resources:
   bugtracker: https://github.com/drzigman/data-validate-uuid/issues
   homepage: http://search.cpan.org/dist/Data-Validate-UUID
   repository: git://github.com/drzigman/data-validate-uuid.git
-version: 0.1.0
+version: 0.1.1
